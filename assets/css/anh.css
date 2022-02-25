@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    background-color: rgb(177, 177, 216);
+}
+p{
+    text-align:center;
+}
+
+
+.anh>.kichthuoc>img:hover{
+    box-shadow: 10px 15px rgb(233, 182, 182);
+    background-color:rgb(218, 240, 184) ;
+}
+.anh>.kichthuoc>img{
+    width:400px; height:250px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: rgb(148, 243, 222);
+    padding:10px;
+    margin:10px;
+    box-shadow: 10px 10px rgb(63, 63, 109);
+}
